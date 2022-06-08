@@ -1,0 +1,141 @@
+.loginformbg {
+  height: 100vh;
+  width: 100%;
+}
+.main {
+    text-align: center;
+    justify-content: center;
+    display: flex; 
+    padding-top: 150px;
+    padding-bottom: 150px;
+    background-color: #e1e3eb;
+  }
+  .sub-main {
+    display: flex;
+    justify-content: center;
+    height: 500px;
+    width: 400px;
+    box-shadow: 11px 12px 13px 12px rgb(207, 207, 207);
+    padding-top: 30px;
+    border-radius: 60px; 
+    background-color: white;
+  }
+  
+  .labels-css{
+    display: flex;
+    flex-direction: column;
+    min-width: 300px;
+    width: 30%;
+    text-align: left;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  .input-css{
+    width: 300px;
+    height: 50px;
+    border-radius: 60px;
+    box-shadow: inset 0px 0px 10px 0px #888;
+    font-size: 16px;
+    border: none;
+    outline: none;
+    margin-bottom:  10px;
+    background-color: #fff;
+    padding-left: 20px; 
+  }
+  #loginbutton-css{
+    width: 150px;
+    height: 45px;
+    border-radius: 60px;
+    background-color: orange;
+    color: white;
+    font-size: 20px;
+    border: none;
+    margin-top: 40px;
+    transition: 0.5s;
+    
+  }
+    
+    
+    
+    
+    
+    
+  
+  
+  
+
+  
+  /*
+  
+  
+  .container-image {
+    background-color: rgb(223, 221, 221); 
+    border-radius: 150px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    height: 115px;
+    width: 115px;
+    }
+    
+
+  
+  .profile {
+    height: 100px;
+    width: 100px;
+    border-radius: 130px;
+  } 
+
+  input{
+      width: 300px;
+      height: 50px;
+      border-radius: 60px;
+      box-shadow: inset 0px 0px 25px 0px #888;
+      border: none;
+      outline: none;
+      background-color: #fff;
+  }
+
+  .email{
+      height: 25px;
+      width: 25px;
+      position: absolute;
+      padding: 14px 0 0 25px;
+  }
+
+  .name{
+      padding-left: 70px;
+      font-size: 20px;
+  }
+  .second-input{
+      padding-top: 20px;
+  }
+
+  button{
+      width: 380px;
+      height: 50px;
+      border-radius: 60px;
+      background-color: #b103fc;
+      color: white;
+      font-size: 25px;
+      border: none;
+  }
+  .login-button{
+      padding-top: 25px;
+  }
+
+  .link{
+      font-size: 25px;
+      font-weight: 400;
+  }
+   a{
+       color: blue;
+   }
+
+   
+  .password{
+    Word-Wrap:break-word;
+  }
+  */
+   

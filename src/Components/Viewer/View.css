@@ -1,0 +1,35 @@
+
+ 
+
+
+
+input[type=file]::file-selector-button {
+    border: 2px solid rgb(109, 109, 109);
+    padding: .2em .4em;
+    border-radius: .2em;
+    background-color: rgb(109, 109, 109);
+    height: 50px;
+    width: 120px;
+    border-radius: px;
+    font-size:15px;
+    color: white;
+    font-family: 'Noto Sans JP', sans-serif;
+  }
+  
+  input[type=file]::file-selector-button:hover {
+    background-color: #ff7300;
+    border: 2px solid #ffaa64;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,61 @@
+.pdf-container{
+    width: 70%;
+    height: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #e4e4e4;
+    overflow-y: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+.lessonname-css{
+  margin-left: 70px;
+  margin-top: 90px;
+}
+
+
+
+.yoklama-button {
+  margin-right: 10px;
+  align-items: center;
+  background-color: #333;
+  border: none;
+  box-sizing: border-box;
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+  display: inline-flex;
+  font-size: 20px;
+  height: 48px;
+  justify-content: center;
+  letter-spacing: -.8px;
+  line-height: 24px;
+  min-width: 140px;
+  outline: 0;
+  padding: 0 17px;
+  text-align: center;
+  text-decoration: none;
+  transition: all .3s;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  border-radius: 5px;
+
+}
+
+.yoklama-button:focus {
+  color: #171e29;
+}
+
+.yoklama-button:hover {
+  background-color: #ff7300;
+  border-color: #ff7300;
+  fill: #ff7300;
+}
+
+.yoklama-button:active {
+  background-color: #ffd000;
+  border-color: #ffd000;
+  fill: #ffd000;
+}
