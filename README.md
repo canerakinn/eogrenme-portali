@@ -1,4 +1,3 @@
-<b> Trakya Üniversitesi-Bilgisayar 
-Caner Akın - 1191602618 </b>
+<b> Trakya Üniversitesi-Bilgisayar  <a> Caner Akın - 1191602618 </a> </b>
 
 
