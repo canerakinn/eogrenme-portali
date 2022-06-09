@@ -9,10 +9,10 @@
 <pre>
 <h2> Uygulama Bilgileri </h2><br>
 <h3> Admin Panel Erişim: </h3>
-<p>
+<b>
 userno:admin
 password:admin
-</p>
+</b>
 <h3> Örnek Öğrenci Girişleri: </h3>
 <b>
 userno:119160
