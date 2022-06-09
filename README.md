@@ -25,6 +25,7 @@ password:123
 
 <pre>
 Uygulamayı başlatmak için
+### npm install
 ### npm start 
 </pre>
 
