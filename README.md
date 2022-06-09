@@ -1,3 +1,4 @@
+<pre>
 <b> 
   <br> Kişisel Bilgiler </br>
   Trakya Üniversitesi-Bilgisayar Mühendisliği 
@@ -6,5 +7,6 @@
   E-Öğrenme-Portalı  
   
 </b>
+</pre>
 
 ### npm start
