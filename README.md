@@ -6,12 +6,5 @@
   Trakya Üniversitesi-Bilgisayar Mühendisliği 
   </br>
   </h2>
-  
+ </pre>
 
-  
-  <a>Trakya Üniversitesi-Bilgisayar Mühendisliği </a>
-  E-Öğrenme-Portalı   
-</pre>
-<h2>  Kişisel Bilgiler </h2>
-
-### npm start
