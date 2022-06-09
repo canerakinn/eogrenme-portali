@@ -1,5 +1,5 @@
 <pre>
-  <h1>  Kişisel Bilgiler </h1>
+  <h3>  Kişisel Bilgiler </h3>
   <a>Trakya Üniversitesi-Bilgisayar Mühendisliği </a>
   <br> Caner Akın - 1191602618 </br> 
   <br> Web Tabanlı Programlama Final Projesi </br> 
