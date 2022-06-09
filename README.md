@@ -6,14 +6,14 @@
   </h2>
  </pre>
  
- <pre>
+<pre>
 <h2> Uygulama Bilgileri </h2><br>
-<h3> Admin Panel Erişim <h3>
+<h2> Admin Panel Erişim <h2>
 <p>
 userno:admin
 password:admin
 </p>
-<h3> Örnek Öğrenci Girişleri <h3>
+<h2> Örnek Öğrenci Girişleri <h2>
 <p>
 userno:119160
 password:123
@@ -22,4 +22,4 @@ userno:119161
 password:123
 </p>
 
- </pre>
+</pre>
