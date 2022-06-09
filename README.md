@@ -14,12 +14,12 @@ userno:admin
 password:admin
 </p>
 <h3> Örnek Öğrenci Girişleri: </h3>
-<p>
+<b>
 userno:119160
 password:123
 
 userno:119161
 password:123
-</p>
+</b>
 
 </pre>
