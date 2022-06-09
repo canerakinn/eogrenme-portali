@@ -1,12 +1,13 @@
 <pre>
   <h2> 
   Web Tabanlı Programlama - Final Projesi  
-  <br> 
+  <br> </br>
   Caner Akın - 1191602618   
   Trakya Üniversitesi-Bilgisayar Mühendisliği 
-  </br>
   </h2>
  </pre>
+ 
  <pre>
- <mark> asda </mark>
+<h2> Uyguluma Bilgileri </h2>
+<br>
  </pre>
