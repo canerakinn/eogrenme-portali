@@ -7,7 +7,11 @@
  </pre>
  <pre>
  <h2> Uygulama Sunum İçeriği(PDF) </h2>
- <a href="https://github.com/canerakinn/eogrenme-portali/blob/main/E-Ogrenme%20Portali.pdf"> Uygulamanın PDF dosyasını görmek için tıklayınız</a>
+ <a href="https://github.com/canerakinn/eogrenme-portali/blob/main/E-Ogrenme%20Portali.pdf"> Uygulamanın PDF dosyasını GÖRÜNTÜLEMEK için tıklayınız.</a>
+ <a href="https://github.com/canerakinn/eogrenme-portali/raw/main/E-Ogrenme%20Portali.pdf"> Uygulamanın PDF dosyasını İNDİRMEK için tıklayınız.</a>
+ 
+ 
+ 
  </pre>
 
  
