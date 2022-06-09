@@ -7,10 +7,6 @@
  </pre>
  
 <pre>
-Uygulamayı başlatmak için
-### npm install
-### npm start 
-
 <h2> Uygulama Bilgileri </h2><br>
 <h3> Admin Panel Erişim: </h3>
 <b>
