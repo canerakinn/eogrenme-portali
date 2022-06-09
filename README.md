@@ -4,8 +4,11 @@
   Caner Akın - 1191602618   
   Trakya Üniversitesi-Bilgisayar Mühendisliği 
   </h2>
+ </pre>
+ <pre>
  
  </pre>
+
  
 <pre>
 <h2> Uygulama Bilgileri </h2><br>
