@@ -6,13 +6,12 @@
   </h2>
  </pre>
  <pre>
- 
+ <a href="https://github.com/canerakinn/eogrenme-portali/blob/main/E-Ogrenme%20Portali.pdf"> Uygulamanın PDF dosyasını görmek için tıklayınız</a>
  </pre>
 
  
 <pre>
 <h2> Uygulama Bilgileri </h2><br>
-<a href="https://github.com/canerakinn/eogrenme-portali/blob/main/E-Ogrenme%20Portali.pdf"> Uygulamanın PDF dosyasını görmek için tıklayınız</a>
 <h3> Admin Panel Erişim: </h3>
 <b>
 userno:admin
